@@ -16,7 +16,7 @@
     <description>支付逻辑服务器，集成主流第三方支付的项目，包含支付宝、 微信、 Google Play、 Apple Store。</description>
 
     <properties>
-        <fastjson.version>1.1.41</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <commons-lang3.version>3.3.2</commons-lang3.version>
         <lombok.version>1.16.4</lombok.version>
     </properties>
